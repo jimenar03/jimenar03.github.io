@@ -1,0 +1,60 @@
+body 
+{
+ color: rgb(46, 45, 45);
+ text-align: left;
+ font-family: "Arial";
+ font-size:20px;
+ margin:0;
+ padding:0;
+}
+#cabecera
+{
+	background: rgb(22, 79, 136);
+	box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+	color: white;
+	font-weight:bold;
+	margin: 0;
+	padding: 0.5em 0 0.5em 2em;
+}
+#cabecera #logo
+{
+width: 20px;
+vertical-align: middle;
+}
+#cabecera #tagline
+{
+	padding:0 0 0 1em;
+	font-weight:normal;
+	margin: 0 0 0 1em;
+	font-size:0.8em;
+}
+
+#container
+{
+	width:70%;
+	padding: 1em;
+	text-align: left;
+	border: 1px solid white;
+	margin:0 auto;
+}
+
+#container h1
+{
+<<<<<<< HEAD
+	font-size:20px;
+}
+#footer
+{
+background: #777;
+color: white;
+text-align: center;
+padding: 0.5em;
+=======
+	font-size:30px;
+}
+#post
+{
+background: white;
+padding: 1em;
+>>>>>>> header
+}
