@@ -40,7 +40,6 @@ vertical-align: middle;
 
 #container h1
 {
-<<<<<<< HEAD
 	font-size:20px;
 }
 #footer
@@ -49,12 +48,4 @@ background: #777;
 color: white;
 text-align: center;
 padding: 0.5em;
-=======
-	font-size:30px;
-}
-#post
-{
-background: white;
-padding: 1em;
->>>>>>> header
 }
